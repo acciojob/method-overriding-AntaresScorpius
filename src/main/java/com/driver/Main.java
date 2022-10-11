@@ -6,7 +6,7 @@ public class Main {
         B b = new B();
         b.meth();
     }
-    public class static A{
+    public static class static A{
         public String meth(){
             return "Invoking method from class A";
         }
